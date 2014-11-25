@@ -39,10 +39,10 @@ timezone:      null
 
 
 #站点基础配置
-title: Violet
-subTitle: Just another Jekyll blog.
-description: 这是 PIZn 的又一个博客，它是基于 Jekyll 搭建起来的。在这里，不仅仅是用来快速记录工作，学习，生活的一点一滴的地方，更是 PIZn 对 Jekyll 的学习和使用的一次有意义的实践。
-url: http://pizn.github.io
+title: Jylpoppy
+subTitle: Jylpoppy blog.
+description: 用了一款主题
+url: http://jylpoppy.github.com
 feed: /atom.xml
 
 #菜单配置
@@ -72,16 +72,10 @@ headimg:
 follow:
   - class: fa-google-plus
     url: http://www.zhanxin.info
-  - class: fa-facebook
-    url: http://www.zhanxin.info
   - class: fa-github
-    url: http://github.com/pizn
+    url: http://github.com/jylpoppy
   - class: fa-weibo
-    url: http://weibo.com/pizner
-  - class: fa-renren
-    url: http://www.zhanxin.info
-  - class: fa-pinterest
-    url: http://www.zhanxin.info
+    url: http://weibo.com/u/2204832573/
   - class: fa-twitter
     url: http://www.zhanxin.info
   - class: fa-rss
